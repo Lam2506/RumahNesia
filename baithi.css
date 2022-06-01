@@ -105,7 +105,7 @@
     background-color: #fff;
     color: black;
     border-radius: 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content: space-between;
